@@ -1,0 +1,1 @@
+{'malaylam': 3, 'hindi': 1, 'telugu': 0, 'bengali': 2}
